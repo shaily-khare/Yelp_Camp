@@ -1,6 +1,6 @@
-<h2>Yelp Camp -Application(Full Stack Developer, Individual Project) </h2>
+## Yelp Camp -Application(Full Stack Developer, Individual Project) 
 
-Deployed App - See Here - [Yelp Camp](https://sheltered-escarpment-56487.herokuapp.com/)
+Deployed App Here - [Yelp Camp](https://sheltered-escarpment-56487.herokuapp.com/)
 
 <p>YelpCamp is an application that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/). that allows you to view campgrounds with a short description. 
 Once you login or signup you can begin to create your own campgrounds that includes a title, image address and short description. You will also be able to leave a comment or edit a campground of yours.
@@ -8,12 +8,14 @@ Once you login or signup you can begin to create your own campgrounds that inclu
 
 ***NOTE: This project is still a work in progress.***
 
-## All 7 RESTful routes implemented from scratch and mapped with CRUD operations.
-  [Click here to see](https://github.com/shaily-khare/Yelp_Camp/blob/master/chart.html)
+### All 7 RESTful routes implemented from scratch and mapped with CRUD operations.
 
-##List, Show, Create, Update and Destroy Campgrounds following the RESTful routing pattern.
+Index, New, Create, Show, Edit, Update and Destroy Campgrounds following the RESTful routing pattern.
+[Click here to see](chart.html)
 
-## Technology Stack Used:
+<a href="chart.html.html">About Me</a>
+
+### Technology Stack Used:
 
 * For front-end I have used HTML5, CSS3, JavaScript, Bootstrap for responsive layout, and jQuery.
 * For back-end I used NodeJS, ExpressJS, REST, Authentication, Authorization and PassportJS.
@@ -21,7 +23,13 @@ Once you login or signup you can begin to create your own campgrounds that inclu
 * EJS is used as the templating language.
 * The application is hosted on Heroku servers and MongoLab.
 
-## Setup
+### Setup
+#### Local
+If running application locally, make sure MongoDB is running in background
 * Download the zip code.
 * Run npm install
-* Make sure MongoDB is running (if want.
+* Uncomment this line - mongoose.connect('mongodb://localhost/yelp_camp');
+
+#### If running on Mongo Lab
+* mongodb://<dbuser>:<dbpassword>@host1:port1/database
+* Enter your DB username, password.
