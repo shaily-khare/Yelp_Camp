@@ -23,7 +23,7 @@ Once you login or signup you can begin to create your own campgrounds that inclu
 * The application is hosted on Heroku servers and MongoLab.
 
 ### Setup
-#### Local
+#### If running locally
 If running application locally, make sure MongoDB is running in background
 * Download the zip code.
 * Run npm install
