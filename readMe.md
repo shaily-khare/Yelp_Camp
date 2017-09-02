@@ -12,9 +12,7 @@ Once you login or signup you can begin to create your own campgrounds that inclu
 
 *Index, New, Create, Show, Edit, Update and Destroy Campgrounds following the RESTful routing pattern.
 
-* [Click here to see](chart.html)
-
-* <a href="chart.html">Click here to see</a>
+* [See this file](chart.html)
 
 ### Technology Stack Used:
 
