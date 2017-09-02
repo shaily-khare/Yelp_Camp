@@ -9,7 +9,7 @@ Once you login or signup you can begin to create your own campgrounds that inclu
 ***NOTE: This project is still a work in progress.***
 
 ## All 7 RESTful routes implemented from scratch and mapped with CRUD operations.
-  [Click here to see](charts.html)
+  [Click here to see](https://github.com/shaily-khare/Yelp_Camp/blob/master/chart.html)
 
 ##List, Show, Create, Update and Destroy Campgrounds following the RESTful routing pattern.
 
