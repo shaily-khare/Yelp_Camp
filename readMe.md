@@ -2,8 +2,8 @@
 
 Deployed App Here - [Yelp Camp](https://sheltered-escarpment-56487.herokuapp.com/)
 
-<p>YelpCamp is an application that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/). that allows you to view campgrounds with a short description. 
-Once you login or signup you can begin to create your own campgrounds that includes a title, image address and short description. You will also be able to leave a comment or edit a campground of yours.
+<p>YelpCamp is an application that allows you to view campgrounds with a short description. 
+Once you login or signup you can begin to create your own campgrounds that includes a title, image address and short description. You will also be able to leave a comment on other's campgrounds and edit a campground of yours.
 </p> 
 
 ***NOTE: This project is still a work in progress.***
